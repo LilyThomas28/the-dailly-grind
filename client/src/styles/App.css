@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  text-shadow: 1px 1px 3px #444;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  color: #fff;
+  background-image: linear-gradient(#CDC3BE, #795A46);
+  width: 100%;
+  background-attachment: fixed;
+}

@@ -9,7 +9,7 @@ import Profile from "./pages/Profile/Profile";
 import Contact from "./pages/Contact/Contact";
 import Chat from "./pages/Chat/Chat";
 
-import "./App.css";
+import "./styles/App.css";
 
 function App() {
   return (
