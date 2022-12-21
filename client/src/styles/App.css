@@ -11,8 +11,18 @@
 }
 
 body {
-  color: #fff;
-  background-image: linear-gradient(#CDC3BE, #795A46);
+  background-image: linear-gradient(rgba(103, 19, 14, 0.4), rgba(0, 0, 0, 0.5)),
+    url("../components/assets/images/coffeeBG.jpg");
   width: 100%;
   background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.whiteText {
+  color: whitesmoke;
 }

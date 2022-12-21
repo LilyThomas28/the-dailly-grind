@@ -2,11 +2,16 @@
     text-align: center;
 }
 
+h1 {
+    color: whitesmoke;
+}
+
 a {
     text-decoration: none;
     color: #fff;
 }
 
 a:hover {
-    text-shadow: rgba(181, 76, 76) 0 0 10px;
+    text-shadow: rgb(130, 13, 13) 0 0 10px;
+    color: #fff;
 }
